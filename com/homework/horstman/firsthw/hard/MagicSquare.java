@@ -2,6 +2,7 @@ package com.homework.horstman.firsthw.hard;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
 /*
 Напишите программу, вводящую двумерный массив целочисленных значений
